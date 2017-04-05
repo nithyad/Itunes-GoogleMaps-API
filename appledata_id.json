@@ -1,0 +1,726 @@
+{
+  "resultCount": 80,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele/id262836961?uo=4",
+      "artistId": 262836961,
+      "artistName": "Adele",
+      "primaryGenreId": 14,
+      "amgArtistId": 861756,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele/id493383225?uo=4",
+      "artistId": 493383225,
+      "artistName": "Adele",
+      "primaryGenreId": 50000064,
+      "primaryGenreName": "French Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-anthony/id2600825?uo=4",
+      "artistId": 2600825,
+      "artistName": "Adele Anthony",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-morgan/id158179821?uo=4",
+      "artistId": 158179821,
+      "artistName": "Adele Morgan",
+      "primaryGenreId": 6,
+      "amgArtistId": 893723,
+      "primaryGenreName": "Country",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-harley/id269278740?uo=4",
+      "artistId": 269278740,
+      "artistName": "Adele Harley",
+      "primaryGenreId": 24,
+      "primaryGenreName": "Reggae",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-erichsen/id294798161?uo=4",
+      "artistId": 294798161,
+      "artistName": "Adele Erichsen",
+      "primaryGenreId": 18,
+      "primaryGenreName": "Hip-Hop/Rap",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 210503096,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/lady-adele-gentlemen-jim/id210503096?uo=4",
+      "artistType": "Artist",
+      "artistName": "Lady Adele & Gentlemen Jim"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele/id563040812?uo=4",
+      "artistId": 563040812,
+      "artistName": "Adele",
+      "primaryGenreId": 22,
+      "primaryGenreName": "Christian & Gospel",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-addison/id16711980?uo=4",
+      "artistId": 16711980,
+      "artistName": "Adele Addison",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-taylor/id425652978?uo=4",
+      "artistId": 425652978,
+      "artistName": "Adele Taylor",
+      "primaryGenreId": 17,
+      "amgArtistId": 2541167,
+      "primaryGenreName": "Dance",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-wilson/id276465002?uo=4",
+      "artistId": 276465002,
+      "artistName": "Adele Wilson",
+      "primaryGenreId": 1048,
+      "primaryGenreName": "House",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-bloemendaal/id146519987?uo=4",
+      "artistId": 146519987,
+      "artistName": "Adele Bloemendaal",
+      "primaryGenreId": 23,
+      "primaryGenreName": "Vocal",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/karen-adele-litzinger/id351003720?uo=4",
+      "artistId": 351003720,
+      "artistName": "Karen Adele Litzinger",
+      "primaryGenreId": 50000061,
+      "primaryGenreName": "Spoken Word",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-zalem/id678921159?uo=4",
+      "artistId": 678921159,
+      "artistName": "Ad\u00e8le & Zalem",
+      "primaryGenreId": 19,
+      "primaryGenreName": "World",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-hudson/id433454760?uo=4",
+      "artistId": 433454760,
+      "artistName": "Adele Hudson",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-zane/id4238255?uo=4",
+      "artistId": 4238255,
+      "artistName": "Adele Zane",
+      "primaryGenreId": 11,
+      "amgArtistId": 463782,
+      "primaryGenreName": "Jazz",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/fred-adele-astaire/id260519942?uo=4",
+      "artistId": 260519942,
+      "artistName": "Fred & Adele Astaire",
+      "primaryGenreId": 12,
+      "primaryGenreName": "Latino",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-astaire/id26399397?uo=4",
+      "artistId": 26399397,
+      "artistName": "Adele Astaire",
+      "primaryGenreId": 16,
+      "primaryGenreName": "Soundtrack",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/grace-adele/id292473919?uo=4",
+      "artistId": 292473919,
+      "artistName": "Grace Adele",
+      "primaryGenreId": 10,
+      "primaryGenreName": "Singer/Songwriter",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-stolte/id96109889?uo=4",
+      "artistId": 96109889,
+      "artistName": "Adele Stolte",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-b/id896823517?uo=4",
+      "artistId": 896823517,
+      "artistName": "Adele B",
+      "primaryGenreId": 19,
+      "primaryGenreName": "World",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/lady-adele/id206552002?uo=4",
+      "artistId": 206552002,
+      "artistName": "Lady Adele",
+      "primaryGenreId": 6,
+      "amgArtistId": 942379,
+      "primaryGenreName": "Country",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-kern/id207669904?uo=4",
+      "artistId": 207669904,
+      "artistName": "Adele Kern",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/author/adele-garrison/id366214334?mt=11&uo=4",
+      "artistId": 366214334,
+      "artistName": "Adele Garrison",
+      "primaryGenreId": 10042,
+      "primaryGenreName": "Classics",
+      "artistType": "Author"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-adele-players/id473712607?uo=4",
+      "artistId": 473712607,
+      "artistName": "The Adele Players",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-sebastian/id269331234?uo=4",
+      "artistId": 269331234,
+      "artistName": "Adele Sebastian",
+      "primaryGenreId": 11,
+      "amgArtistId": 1804682,
+      "primaryGenreName": "Jazz",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-swallow/id281277604?uo=4",
+      "artistId": 281277604,
+      "artistName": "Adele Swallow",
+      "primaryGenreId": 20,
+      "primaryGenreName": "Alternative",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-del-rey/id501157840?uo=4",
+      "artistId": 501157840,
+      "artistName": "Adele del Rey",
+      "primaryGenreId": 7,
+      "primaryGenreName": "Electronic",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/jacob-scott-einstagator-feat./id659775823?uo=4",
+      "artistId": 659775823,
+      "artistName": "Jacob Scott, Einstagator feat. Adele, Jellyroll",
+      "primaryGenreId": 18,
+      "primaryGenreName": "Hip-Hop/Rap",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-farmer-adele/id1038728243?uo=4",
+      "artistId": 1038728243,
+      "artistName": "The Farmer & Adele",
+      "primaryGenreId": 6,
+      "amgArtistId": 3148006,
+      "primaryGenreName": "Country",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-pickvance/id257802921?uo=4",
+      "artistId": 257802921,
+      "artistName": "Adele Pickvance",
+      "primaryGenreId": 20,
+      "primaryGenreName": "Alternative",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/fred-and-adele-astaire/id308936418?uo=4",
+      "artistId": 308936418,
+      "artistName": "Fred and Adele Astaire",
+      "primaryGenreId": 16,
+      "primaryGenreName": "Soundtrack",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-red/id363694346?uo=4",
+      "artistId": 363694346,
+      "artistName": "Adele Red",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-glenn/id506581134?uo=4",
+      "artistId": 506581134,
+      "artistName": "Adele&Glenn",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-the-raconteurs/id295753707?uo=4",
+      "artistId": 295753707,
+      "artistName": "Adele & The Raconteurs",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/cameo-adele/id1040580718?uo=4",
+      "artistId": 1040580718,
+      "artistName": "Cameo Adele",
+      "primaryGenreId": 15,
+      "primaryGenreName": "R&B/Soul",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-girard-marsala/id162464879?uo=4",
+      "artistId": 162464879,
+      "artistName": "Adele Girard Marsala",
+      "primaryGenreId": 11,
+      "primaryGenreName": "Jazz",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-hewett/id692630908?uo=4",
+      "artistId": 692630908,
+      "artistName": "Adele Hewett",
+      "primaryGenreId": 50000061,
+      "amgArtistId": 2991210,
+      "primaryGenreName": "Spoken Word",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-leigh/id431138144?uo=4",
+      "artistId": 431138144,
+      "artistName": "Adele Leigh",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-anderson/id218843988?uo=4",
+      "artistId": 218843988,
+      "artistName": "Adele Anderson",
+      "primaryGenreId": 23,
+      "amgArtistId": 337929,
+      "primaryGenreName": "Vocal",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/ester-adele/id836603668?uo=4",
+      "artistId": 836603668,
+      "artistName": "Ester Adele",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/johanna-adele-jussi/id580635137?uo=4",
+      "artistId": 580635137,
+      "artistName": "Johanna-Adele J\u00fcssi",
+      "primaryGenreId": 10,
+      "primaryGenreName": "Singer/Songwriter",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-h/id1110906505?uo=4",
+      "artistId": 1110906505,
+      "artistName": "Adele H",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 340758326,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-frodsham/id340758326?uo=4",
+      "artistType": "Artist",
+      "artistName": "Adele Frodsham"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-fournet/id358882010?uo=4",
+      "artistId": 358882010,
+      "artistName": "Adele Fournet",
+      "primaryGenreId": 14,
+      "amgArtistId": 2991213,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/jadele/id465943440?uo=4",
+      "artistId": 465943440,
+      "artistName": "J'adele",
+      "primaryGenreId": 17,
+      "primaryGenreName": "Dance",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/bonita-adele/id711013728?uo=4",
+      "artistId": 711013728,
+      "artistName": "Bonita Adele",
+      "primaryGenreId": 22,
+      "primaryGenreName": "Christian & Gospel",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/lois-adele-craft/id447423377?uo=4",
+      "artistId": 447423377,
+      "artistName": "Lois Adele Craft",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/laila-adele/id438711496?uo=4",
+      "artistId": 438711496,
+      "artistName": "Laila Ad\u00e8le",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/grace-adele-with-brazilbilly/id578522638?uo=4",
+      "artistId": 578522638,
+      "artistName": "Grace Adele With Brazilbilly",
+      "primaryGenreId": 8,
+      "primaryGenreName": "Holiday",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-deysel/id839241941?uo=4",
+      "artistId": 839241941,
+      "artistName": "Adele Deysel",
+      "primaryGenreId": 1103,
+      "primaryGenreName": "Praise & Worship",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-johnston/id984773507?uo=4",
+      "artistId": 984773507,
+      "artistName": "Adele Johnston",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-eikenes/id22891745?uo=4",
+      "artistId": 22891745,
+      "artistName": "Adele Eikenes",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-urbiztondo/id304404484?uo=4",
+      "artistId": 304404484,
+      "artistName": "Adele Urbiztondo",
+      "primaryGenreId": 25,
+      "amgArtistId": 1134112,
+      "primaryGenreName": "Easy Listening",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-lee-peters/id982464413?uo=4",
+      "artistId": 982464413,
+      "artistName": "Adele Lee Peters",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-bracco/id703276728?uo=4",
+      "artistId": 703276728,
+      "artistName": "Ad\u00e8le Bracco",
+      "primaryGenreId": 1221,
+      "primaryGenreName": "Bossa Nova",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-odwyer/id115115472?uo=4",
+      "artistId": 115115472,
+      "artistName": "Adele O'Dwyer",
+      "primaryGenreId": 5,
+      "primaryGenreName": "Classical",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-marina-wilding/id397157226?uo=4",
+      "artistId": 397157226,
+      "artistName": "Adele-Marina Wilding",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-kane/id325703965?mt=11&uo=4",
+      "artistId": 325703965,
+      "artistName": "Adele Kane",
+      "primaryGenreId": 10057,
+      "primaryGenreName": "Contemporary",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/marta-adele/id510454129?uo=4",
+      "artistId": 510454129,
+      "artistName": "Marta Adele",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-beeman/id470576566?uo=4",
+      "artistId": 470576566,
+      "artistName": "Adele Beeman",
+      "primaryGenreId": 22,
+      "primaryGenreName": "Christian & Gospel",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 383541954,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-the-jaguars/id383541954?uo=4",
+      "artistType": "Artist",
+      "artistName": "Adele & The Jaguars"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-forman/id365346763?uo=4",
+      "artistId": 365346763,
+      "artistName": "Adele Forman",
+      "primaryGenreId": 23,
+      "primaryGenreName": "Vocal",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-nicols/id46618488?uo=4",
+      "artistId": 46618488,
+      "artistName": "Adele Nicols",
+      "primaryGenreId": 11,
+      "amgArtistId": 717056,
+      "primaryGenreName": "Jazz",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-holness/id214580719?uo=4",
+      "artistId": 214580719,
+      "artistName": "Adele Holness",
+      "primaryGenreId": 15,
+      "amgArtistId": 538402,
+      "primaryGenreName": "R&B/Soul",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-lahore/id551922902?uo=4",
+      "artistId": 551922902,
+      "artistName": "Ad\u00e8le Lahor\u00e9",
+      "primaryGenreId": 1203,
+      "primaryGenreName": "Africa",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 132800462,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/michel-rivard-adele-trottier/id132800462?uo=4",
+      "artistType": "Artist",
+      "artistName": "Michel Rivard and Adele Trottier-Rivard"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/jessi-adele/id1059210866?uo=4",
+      "artistId": 1059210866,
+      "artistName": "Jessi Adele",
+      "primaryGenreId": 1062,
+      "primaryGenreName": "Alternative Folk",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/patrick-adele-amelie/id649613781?uo=4",
+      "artistId": 649613781,
+      "artistName": "Patrick Ad\u00e8le Amelie",
+      "primaryGenreId": 1195,
+      "primaryGenreName": "Caribbean",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-russotto/id428004710?uo=4",
+      "artistId": 428004710,
+      "artistName": "Adele Russotto",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/laila-adele/id130874158?uo=4",
+      "artistId": 130874158,
+      "artistName": "Laila Ad\u00e9le",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-laface/id473125858?uo=4",
+      "artistId": 473125858,
+      "artistName": "Adele Laface",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-e-il-mare/id648952380?uo=4",
+      "artistId": 648952380,
+      "artistName": "Adele e il Mare",
+      "primaryGenreId": 20,
+      "primaryGenreName": "Alternative",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 377874083,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-kotowska/id377874083?uo=4",
+      "artistType": "Artist",
+      "artistName": "Adele Kotowska"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-belmont-quartet/id820767059?uo=4",
+      "artistId": 820767059,
+      "artistName": "Ad\u00e8le Belmont Quartet",
+      "primaryGenreId": 11,
+      "primaryGenreName": "Jazz",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-black/id462183357?uo=4",
+      "artistId": 462183357,
+      "artistName": "Adele Black",
+      "primaryGenreId": 7,
+      "primaryGenreName": "Electronic",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-back/id452890973?uo=4",
+      "artistId": 452890973,
+      "artistName": "Adele Back",
+      "primaryGenreId": 7,
+      "primaryGenreName": "Electronic",
+      "artistType": "Artist"
+    },
+    {
+      "artistId": 274232732,
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/gewandhausorchester-leipzig/id274232732?uo=4",
+      "artistType": "Artist",
+      "artistName": "Gewandhausorchester Leipzig, V\u00e1clav Neumann, Adele Stolte"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/jacqueline-adele/id958758724?uo=4",
+      "artistId": 958758724,
+      "artistName": "Jacqueline Adele",
+      "primaryGenreId": 8,
+      "primaryGenreName": "Holiday",
+      "artistType": "Artist"
+    },
+    {
+      "wrapperType": "artist",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/adele-cacace/id373309347?uo=4",
+      "artistId": 373309347,
+      "artistName": "Adele Cacace",
+      "primaryGenreId": 14,
+      "primaryGenreName": "Pop",
+      "artistType": "Artist"
+    }
+  ]
+}

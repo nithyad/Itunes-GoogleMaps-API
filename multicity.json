@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "destination_addresses": [
+    "Claremont, CA, USA",
+    "Atlanta, GA, USA"
+  ],
+  "origin_addresses": [
+    "Pittsburgh, PA, USA",
+    "Boston, MA, USA",
+    "Seattle, WA, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "3,825 km",
+            "value": 3824822
+          },
+          "duration": {
+            "text": "32 days 14 hours",
+            "value": 2814059
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1,052 km",
+            "value": 1052233
+          },
+          "duration": {
+            "text": "9 days 5 hours",
+            "value": 795914
+          }
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "4,724 km",
+            "value": 4723828
+          },
+          "duration": {
+            "text": "40 days 5 hours",
+            "value": 3474675
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1,713 km",
+            "value": 1713013
+          },
+          "duration": {
+            "text": "14 days 20 hours",
+            "value": 1279868
+          }
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "status": "OK",
+          "distance": {
+            "text": "1,836 km",
+            "value": 1835769
+          },
+          "duration": {
+            "text": "15 days 18 hours",
+            "value": 1360160
+          }
+        },
+        {
+          "status": "OK",
+          "distance": {
+            "text": "4,225 km",
+            "value": 4224623
+          },
+          "duration": {
+            "text": "36 days 2 hours",
+            "value": 3118014
+          }
+        }
+      ]
+    }
+  ]
+}

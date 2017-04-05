@@ -1,0 +1,92 @@
+{
+  "origin_addresses": [
+    "Claremont, CA, USA",
+    "Pittsburgh, PA, USA",
+    "Boston, MA, USA"
+  ],
+  "status": "OK",
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "value": 705172,
+            "text": "705 km"
+          },
+          "duration": {
+            "value": 530168,
+            "text": "6 days 3 hours"
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "value": 1826661,
+            "text": "1,827 km"
+          },
+          "duration": {
+            "value": 1356302,
+            "text": "15 days 17 hours"
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "value": 4141313,
+            "text": "4,141 km"
+          },
+          "duration": {
+            "value": 3043006,
+            "text": "35 days 5 hours"
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "value": 4015145,
+            "text": "4,015 km"
+          },
+          "duration": {
+            "value": 2954829,
+            "text": "34 days 5 hours"
+          },
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "elements": [
+        {
+          "distance": {
+            "value": 4954999,
+            "text": "4,955 km"
+          },
+          "duration": {
+            "value": 3644906,
+            "text": "42 days 4 hours"
+          },
+          "status": "OK"
+        },
+        {
+          "distance": {
+            "value": 4870586,
+            "text": "4,871 km"
+          },
+          "duration": {
+            "value": 3573605,
+            "text": "41 days 9 hours"
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "destination_addresses": [
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA"
+  ]
+}
